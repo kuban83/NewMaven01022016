@@ -9,6 +9,8 @@ public class TestRunner {
 //
             //
     WebDriver driver;
-    public void test () {}
+    public void test () {
+        System.out.println("Hello");
+    }
 
 }
